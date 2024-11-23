@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ranjeeta kakodiya</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<img align="right" alt="coding" width="800" src="https://www.bing.com/th/id/OGC.14741893337363a95eb71182ea037208?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1894420%2fscreenshots%2f14032021%2fmedia%2fa85f637f1eb4cd5efdd307f9760472a1.gif&ehk=ZesgANU1ODFuNOM434bYmzzgx6xDy4fqRcaXvo%2frD%2b4%3d">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srrrain750&label=Profile%20views&color=0e75b6&style=flat" alt="srrrain750" /> </p>
 
